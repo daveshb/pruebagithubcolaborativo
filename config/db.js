@@ -14,7 +14,7 @@ app.use(json());
 
 // Configuración de PostgreSQL con datos reales
 const db = new Pool({
-  host: 'xxxxr.supabase.com',
+  host: 'xxxxr.supabase2.com',
   user: 'xxxxx',
   password: process.env.POSTGRES_PASSWORD,
   database: 'xxxxx',
