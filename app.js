@@ -1,4 +1,4 @@
-const name = "Jackson"
+const fullName = "Jackson Florez"
 
 
-console.log(name)
+console.log(fullName)
